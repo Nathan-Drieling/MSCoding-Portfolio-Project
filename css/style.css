@@ -84,10 +84,12 @@ footer
 /* CSS SETTINGS FOR PICTURES ON ABOUT ME PAGE */
 .AboutMePictures
 {
-    width: 75%;
-    height: 75%;
+    width: 50%;
    
-    vertical-align: baseline;
+    display: block;
+
+
+    /* vertical-align: baseline; */
     margin-left: auto;
     margin-right: auto;
 }
