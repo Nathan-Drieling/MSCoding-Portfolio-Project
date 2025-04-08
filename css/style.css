@@ -90,6 +90,8 @@ footer
     vertical-align: baseline;
     margin-left: auto;
     margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 /* CSS STYLING FOR LINE BREAKS IN VARIOUS PAGES */
