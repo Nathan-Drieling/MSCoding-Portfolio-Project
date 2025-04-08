@@ -92,7 +92,8 @@ footer
 hr
 {
     height: 2px;
-    width: au;
+    margin-left: auto;
+    margin-right: auto;
     border-width: 0;
     color: gray; 
     background-color: rgb(39, 34, 34);
