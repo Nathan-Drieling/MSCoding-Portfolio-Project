@@ -36,8 +36,56 @@
     <title>Nathan Drieling Portfolio Project</title>
 </head>
 <body>
-    <header>
 
+     <!-- JS background to make particles on background call -->
+     <canvas class="background"></canvas>
+     <script src="particles.js-master/dist/particles.min.js"></script>
+     <script>
+         var particles = Particles.init({
+             selector: '.background',
+             color: ['#adadad', 'adadad'],
+             connectParticles: true,
+             responsive: [{
+                 breakpoint: 800,
+                 options: {
+                     color: 'adadad',
+                     maxParticles: 100,
+                     connectParticles: false
+                 }
+             }]
+         });
+     </script>
+     <!-- End of JS Particles script call --> 
+
+     <!-- Header SECTION -->
+     <header role = "banner">
+        <nav>
+            <ul>
+                <li>
+                    <a href ="index.html">Home</a>
+                </li>
+                <li>
+                    <a href ="about.html">About</a>
+                </li>
+                <li>
+                    <a href ="portfolio.html">Portfolio</a>
+                </li>
+                <li>
+                    <a href ="blog.html">Blog</a>
+                </li>
+                <li>
+                    <a href ="StackOverflow.html">StackOverflow</a>
+                </li>
+                <li>
+                    <a href ="services.html">Services</a>
+                </li>
+                <li>
+                    <a href ="contact.html">Contact</a>
+                </li>
+            </ul>
+        </nav>
     </header>
+    <!-- End of HEADER SECTION -->
+
 </body>
 </html>
