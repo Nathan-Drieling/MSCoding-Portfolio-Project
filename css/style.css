@@ -17,31 +17,9 @@ header
 { 
     background-color: dimgrey;
     line-height: 50px;
-    
 }
 
-header nav
-{
-    text-align: center;
-    display: inline;
-}
-
-header nav li
-{
-    list-style-type: none;
-    display: inline;
-    padding-left: 10px;
-    padding-right: 10px;
-}
-
-header nav li a
-{
-    color: ghostwhite;
-    transition: all 0.5s;
-    font-size: 18px;
-}
-
-header nav li a:hover
+a:hover
 {
     text-decoration: none;
     color: red;
