@@ -92,10 +92,10 @@ footer
 hr
 {
     height: 2px;
-    width: 1000px; 
+    width: au;
     border-width: 0;
     color: gray; 
-    background-color: gray;
+    background-color: rgb(39, 34, 34);
 }
 
 /* BLOG CSS FOR BLOG PAGE*/
