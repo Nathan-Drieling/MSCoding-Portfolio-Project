@@ -103,16 +103,6 @@ hr
     background-color: rgb(0, 0, 0);
 }
 
-/* BLOG CSS FOR BLOG PAGE*/
-.blog
-{
-    color: black;
-    text-align: justify;
-    font-size: 18px;
-    width: 1000px;
-    margin: auto;
-}
-
 /*unordered lists class definition for ProgrammingLanguages unordered list*/
 /* only appears in services.html*/
 .ProgrammingLanguages
