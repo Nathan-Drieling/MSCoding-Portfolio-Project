@@ -24,7 +24,6 @@ a:hover
     text-decoration: none;
     color: red;
 }
-/* END OF HEADER AND NAV CSS MODS */
 
 /* CSS SETTINGS FOR PICTURES ON ABOUT ME PAGE */
 .AboutMePictures
@@ -54,14 +53,6 @@ hr
 {
     font-size: 100px; 
     color:black;
-}
-
-/*unordered lists class definition for ProgrammingLanguages unordered list*/
-/* only appears in services.html*/
-.ProgrammingLanguages
-{
-    text-align: center;
-    font-size: 18px;  
 }
 
 .background {
