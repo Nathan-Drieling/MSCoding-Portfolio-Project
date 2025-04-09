@@ -128,20 +128,11 @@ input
 
 textarea
 {
-    resize: none;
     border: 2px solid black;
     box-shadow: 2px 2px 3px #666;
     font-size: 20px;
     outline: 0;
     display: inline-block;
-}
-
-.ContactSection
-{
-    text-align: center;
-    margin: auto;
-    width: 1000px;
-    
 }
 
 ul
