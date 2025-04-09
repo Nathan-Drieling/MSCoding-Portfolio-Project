@@ -26,16 +26,6 @@ a:hover
 }
 /* END OF HEADER AND NAV CSS MODS */
 
-/* WELCOME TEXT CSS FOR EACH PAGE */
-/* .MainPageIntroText
-{
-    color: black;
-    text-align: center;
-    font-size: 18px;
-    width: 1000px;
-    margin: auto;
-} */
-
 /* CSS SETTINGS FOR PICTURES ON ABOUT ME PAGE */
 .AboutMePictures
 {
@@ -54,8 +44,8 @@ hr
 {
     height: 2px;
     border-width: 0;
-    color: rgb(0, 0, 0); 
-    background-color: rgb(0, 0, 0);
+    color:  dimgrey;
+    background-color:  dimgrey;
 }
 
 /* CSS STYLING FOR LOGOS */
