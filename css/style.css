@@ -88,6 +88,12 @@ footer
     height: 75%;
 }
 
+#USMImage
+{
+    width: 100%;
+    height: 75%;
+}
+
 /* CSS STYLING FOR LINE BREAKS IN VARIOUS PAGES */
 hr
 {
