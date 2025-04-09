@@ -27,17 +27,7 @@ a:hover
 /* END OF HEADER AND NAV CSS MODS */
 
 /* WELCOME TEXT CSS FOR EACH PAGE */
-.MainPageIntroText
-{
-    color: black;
-    text-align: center;
-    font-size: 18px;
-    width: 1000px;
-    margin: auto;
-}
-
-/* MAIN BODY TEXT CSS FOR MY PORTFOLIO PAGE */
-/* .MyPortfolioText
+/* .MainPageIntroText
 {
     color: black;
     text-align: center;
