@@ -44,6 +44,12 @@ a:hover
     height: 150px;
 }
 
+#NOAAImage
+{
+    width: 100px;
+    height: 150px;
+}
+
 /* CSS STYLING FOR LINE BREAKS IN VARIOUS PAGES */
 hr
 {
