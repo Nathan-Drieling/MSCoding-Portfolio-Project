@@ -36,16 +36,6 @@ a:hover
     margin: auto;
 }
 
-/* MAIN BODY TEXT CSS FOR WELCOME PAGE */
-.WelcomePageNavigationText
-{
-    color: black;
-    text-align: center;
-    font-size: 18px;
-    width: 1000px;
-    margin: auto;
-}
-
 /* MAIN BODY TEXT CSS FOR MY PORTFOLIO PAGE */
 .MyPortfolioText
 {
@@ -66,20 +56,6 @@ footer
     margin: auto;
 }
 
-/* ABOUT ME SECTION TEXT */
-.AboutMeSectionText
-{
-    color: black;
-    text-align: justify;
-    font-size: 18px;
-    width: 1000px;
-    margin: auto;
-}
-
-.ServicesSectionText
-{
-    /* still working on this one.. */
-}
 
 /* CSS SETTINGS FOR PICTURES ON ABOUT ME PAGE */
 .AboutMePictures
@@ -94,14 +70,7 @@ footer
     height: 150px;
 }
 
-/* CSS STYLING FOR LINE BREAKS IN VARIOUS PAGES */
-hr
-{
-    height: 2px;
-    border-width: 0;
-    color: rgb(0, 0, 0); 
-    background-color: rgb(0, 0, 0);
-}
+
 
 /*unordered lists class definition for ProgrammingLanguages unordered list*/
 /* only appears in services.html*/
